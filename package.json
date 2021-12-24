@@ -1,0 +1,11 @@
+{
+  "name": "mytspromise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node src/test.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
